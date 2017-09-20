@@ -8,7 +8,7 @@ public class CalcImplementTest extends TestCase {
 	CalcImplement obj;
 	int a, b;
 
-	protected void setUp() throws Exception {
+	protected void setUp() throws Exception {f
 		obj = new CalcImplement();
 		a = 5;
 		b = 8;

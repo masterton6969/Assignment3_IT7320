@@ -1,4 +1,4 @@
-spackage Assignment3.Assignment3;
+package Assignment3.Assignment3;
 
 public interface CalcInterface {
 	public int add(int a, int b);
